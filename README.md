@@ -1,5 +1,5 @@
 # ratingImages
 
 <p align="center">
-  <img src="screen/dog.jpg"/>
+  <img src="https://raw.githubusercontent.com/LencoDigitexer/ratingImages/master/screeen/dog.jpg"/>
 </p>
