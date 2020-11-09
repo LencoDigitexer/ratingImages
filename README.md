@@ -1,5 +1,5 @@
 # ratingImages
 
 <p align="center">
-  <img src="screen/dog.png"/>
+  <img src="screen/dog.jpg"/>
 </p>
